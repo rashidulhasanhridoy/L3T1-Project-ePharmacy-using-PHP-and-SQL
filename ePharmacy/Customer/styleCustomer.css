@@ -1,0 +1,80 @@
+body{
+    background-image: linear-gradient(to right, #ff5722, #ff9800);
+    margin-top: 100px !important;
+    margin-bottom: 100px !important;
+}
+
+.register-left{
+    margin-top: 100px;
+    text-align: center;
+    color: #fff;
+    padding: 30px;
+}
+
+.register-left p{
+    padding: 20px 20px 0;
+}
+
+.register-left .btn-primary{
+        border-radius: 1.5rem;
+        border: none;
+        width: 120px;
+        background: #f8f8f8;
+        font-weight: 600;
+        color: #555;
+        margin-top: 10px;
+        padding: 10px;
+}
+
+.register-left .btn-primary:hover{
+    background: #000; 
+}
+
+.register-right{
+    
+    border:none;
+    background: #f8f8f8;
+    border-radius: 5%;
+    padding: 30px;
+    
+}
+
+.register-right h2{
+    text-align: center;
+    margin-bottom: 10px;
+    color: #555;
+}
+
+.register-form{
+    padding: 30px;
+}
+
+.register-right .btn-primary{
+        float: right;
+    
+        border-radius: 1.5rem;
+        border: none;
+        width: 120px;
+        background: #ff9800;
+        font-weight: 600;
+        color: #fff;
+        margin-top: 10px;
+        padding: 10px;
+}
+
+.register-right .btn-primary:hover{
+    background: #ff5722;
+}
+
+
+.error{
+	width: 92%;
+	margin: 0px auto;
+	padding: 10px;
+	color: #ff5722;
+	border: 1px solid #ff5722;
+	background: #f2dede;
+	border-radius: 5px;
+	text-align: left;
+}
+
